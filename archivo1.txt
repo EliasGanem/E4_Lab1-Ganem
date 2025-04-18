@@ -1,5 +1,5 @@
 Esta es la linea 1 del archivo 1, recordar dejar un enter al final de cada linea.
-Esta es la linea 2 del archivo 1.
+Esta es la linea 2 del archivo 1. Hago un cambio que no genera conflicto con el Universo_2, esto fue escrito en el Universo_1.
 Esta es la linea 3 del archivo 1.
 Esta es la linea 4 del archivo 1.
 Esta es la linea 5 del archivo 1.
