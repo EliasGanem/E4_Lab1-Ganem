@@ -1,0 +1,4 @@
+# Ignora los .html en cualquier directorio
+**/*.html
+# Ignora el contenido de la carpeta "output"
+output/**
