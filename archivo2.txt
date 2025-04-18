@@ -5,6 +5,6 @@ Esta es la linea 4 del archivo 2.
 Esta es la linea 5 del archivo 2.
 Esta es la linea 6 del archivo 2.
 Esta es la linea 7 del archivo 2.
-Esta es la linea 8 del archivo 2.
-Esta es la linea 9 del archivo 2.
+Esta es la linea 8 del archivo 2.Cambios sin conflictos.
+Esta es la linea 9 del archivo 2. Aclaración importante, el Universo_1 es la rama del commit 3 y el Universo_2 es la rama del commit 4.
 Esta es la linea 10 del archivo 2.
